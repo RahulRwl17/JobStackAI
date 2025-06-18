@@ -40,5 +40,13 @@ A data-driven NLP project to uncover the **most relevant tools, skills, and tren
 
 ---
 
+✨ Optional Final Phase: Automation
+
+Goal: Send weekly auto-generated insights to email or update a live dashboard
+
+Tools: Python scripts, smtplib, schedule, Streamlit sharing, AWS Lambda + SES (for email).
+
+---
+
 
 
